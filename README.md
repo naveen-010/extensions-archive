@@ -1,1 +1,1 @@
-Saving extensions that I feel can discontinue.
+A personal archive of browser extensions I find useful and worth preserving. Stored as `.crx` files so I can revisit, recover, or recreate them in the future—even if they get discontinued, disappear, or I simply forget about them.
